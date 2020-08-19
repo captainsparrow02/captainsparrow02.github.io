@@ -1,0 +1,60 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  font-family: 'Source Code Pro', monospace;
+  color: 	#FFFF00;
+}
+
+/* Padding is given for a more cleaner view in mobile. */
+h5 {
+  padding-bottom: 4px;
+}
+
+p {
+  color: 	#FFFF99;
+}
+
+a.project-links {
+  color: inherit;
+}
+
+/* Top Section */
+
+.row {
+  margin: 8% 8% 3%;
+}
+
+.profile-img-section {
+  text-align: center;
+}
+
+.profile-img {
+  width: 200px;
+  height: 200px;
+}
+
+.top-portion-description {
+  color: 	#FFFF99;
+}
+
+.social-links {
+  padding: 0.5rem;
+}
+
+/* About Me Section */
+
+.about-me {
+  text-align: center;
+}
+
+.about-me-description {
+  padding: 1% 20% 2%;
+}
+
+/* Email */
+
+.email {
+  text-align: center;
+  margin-bottom: 2%;
+}
