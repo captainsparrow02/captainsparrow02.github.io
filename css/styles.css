@@ -9,7 +9,7 @@ body{
 /* Padding is given for a more cleaner view in mobile. */
 
 p {
-  color: 	#FFFF99;
+  color: 	#A9BA9D;
 }
 
 a.project-links {
@@ -32,7 +32,7 @@ a.project-links {
 }
 
 .top-portion-description {
-  color: 	#FFFF99;
+  color: 	#A9BA9D;
 }
 
 .social-links {
@@ -54,4 +54,17 @@ a.project-links {
 .email {
   text-align: center;
   margin-bottom: 2%;
+}
+
+/* Media Query */
+@media (max-width: 1000px) {
+  .about-me-heading {
+    margin-left: 100px;
+    text-align: left;
+  }
+  .about-me-description {
+    margin-left: 100px;
+    padding: 1% 0 2%;
+    text-align: left;
+  }
 }
