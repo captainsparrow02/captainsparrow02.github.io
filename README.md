@@ -1,5 +1,8 @@
-# captainsparrow02.github.io
+# GitHub Protfolio Website
 
-### This is a basic Portfolio website. I have used basic HTML, CSS and Bootstrap to build this website.
+This repository is my basic GitHub portfolio website.
+This website was build using basic HTML, CSS and Bootstrap.
 
-The code used to build this website is free from copyright **(except the profile image)** and can be used/reproduced in a respectable manner.
+You can visit the website here [Portfolio Website](https://captainsparrow02.github.io/)
+
+**Terms of Use** - The code used to build this website is free from any copyright **(except the profile image)** and can be used/reproduced in a respectable manner.
