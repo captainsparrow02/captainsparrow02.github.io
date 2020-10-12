@@ -1,4 +1,4 @@
-# GitHub Protfolio Website
+# GitHub Portfolio Website
 
 This repository is my basic GitHub portfolio website.
 This website was build using basic HTML, CSS and Bootstrap.
