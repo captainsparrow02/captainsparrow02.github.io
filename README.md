@@ -1,8 +1,8 @@
 # GitHub Portfolio Website
 
-This repository is my basic GitHub portfolio website.
-This website was build using basic HTML, CSS and Bootstrap.
+This repository holds files for my GitHub portfolio website.
+This website was build using HTML, CSS, JavaScript and Bootstrap.
 
 You can visit the website here [Portfolio Website](https://tnaved.xyz/)
 
-**Terms of Use** - The code used to build this website is free from any copyright **(except the profile image)** and can be used/reproduced in a respectable manner.
+**Terms of Use** - The code used to build this website is free from any copyright.
